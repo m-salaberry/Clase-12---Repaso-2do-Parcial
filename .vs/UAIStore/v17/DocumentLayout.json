@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\UAIStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D23BF039-5352-4828-B883-F60076926A1E}|UI\\UI.csproj|c:\\users\\user\\source\\repos\\uaistore\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23BF039-5352-4828-B883-F60076926A1E}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23BF039-5352-4828-B883-F60076926A1E}|UI\\UI.csproj|C:\\Users\\user\\source\\repos\\UAIStore\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D23BF039-5352-4828-B883-F60076926A1E}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\uaistore\\dal\\aplicaciondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|solutionrelative:dal\\aplicaciondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB332253-AE48-4C68-A8B6-248C15666EE1}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\uaistore\\bll\\aplicacionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB332253-AE48-4C68-A8B6-248C15666EE1}|BLL\\BLL.csproj|solutionrelative:bll\\aplicacionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\uaistore\\entity\\model\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|solutionrelative:entity\\model\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67745D-FA15-48B4-A3F1-2C8F0B366DDB}|Mapper\\Mapper.csproj|c:\\users\\user\\source\\repos\\uaistore\\mapper\\aplicacionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67745D-FA15-48B4-A3F1-2C8F0B366DDB}|Mapper\\Mapper.csproj|solutionrelative:mapper\\aplicacionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\uaistore\\entity\\categoriaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|solutionrelative:entity\\categoriaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB332253-AE48-4C68-A8B6-248C15666EE1}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\uaistore\\bll\\categoriabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB332253-AE48-4C68-A8B6-248C15666EE1}|BLL\\BLL.csproj|solutionrelative:bll\\categoriabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\uaistore\\entity\\aplicacionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|solutionrelative:entity\\aplicacionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\uaistore\\dal\\categoriadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|solutionrelative:dal\\categoriadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67745D-FA15-48B4-A3F1-2C8F0B366DDB}|Mapper\\Mapper.csproj|c:\\users\\user\\source\\repos\\uaistore\\mapper\\categoriamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67745D-FA15-48B4-A3F1-2C8F0B366DDB}|Mapper\\Mapper.csproj|solutionrelative:mapper\\categoriamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\uaistore\\entity\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D630A15F-3EC0-45A4-8D9D-01826888EBF6}|Entity\\Entity.csproj|solutionrelative:entity\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\uaistore\\dal\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\uaistore\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9770C2F5-D073-4133-8A83-491CF5743423}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:37:00.965Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAD4v5AAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:42:16.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\model\\Aplicacion.cs",
+              "RelativeDocumentMoniker": "Entity\\model\\Aplicacion.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\model\\Aplicacion.cs",
+              "RelativeToolTip": "Entity\\model\\Aplicacion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:51:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AplicacionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\AplicacionEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\AplicacionEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\AplicacionEntity.cs",
+              "RelativeToolTip": "Entity\\AplicacionEntity.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:46:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AplicacionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\Mapper\\AplicacionMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\AplicacionMapper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\Mapper\\AplicacionMapper.cs",
+              "RelativeToolTip": "Mapper\\AplicacionMapper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:16:21.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicacionData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\AplicacionData.cs",
+              "RelativeDocumentMoniker": "DAL\\AplicacionData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\AplicacionData.cs",
+              "RelativeToolTip": "DAL\\AplicacionData.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAD4v1UAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:21:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AplicacionBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\BLL\\AplicacionBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\AplicacionBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\BLL\\AplicacionBusiness.cs",
+              "RelativeToolTip": "BLL\\AplicacionBusiness.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAD4v5MAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:52:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\BLL\\CategoriaBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\CategoriaBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\BLL\\CategoriaBusiness.cs",
+              "RelativeToolTip": "BLL\\CategoriaBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:52:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\CategoriaEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\CategoriaEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\CategoriaEntity.cs",
+              "RelativeToolTip": "Entity\\CategoriaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:47:00.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\CategoriaData.cs",
+              "RelativeDocumentMoniker": "DAL\\CategoriaData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\CategoriaData.cs",
+              "RelativeToolTip": "DAL\\CategoriaData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:22:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\Mapper\\CategoriaMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\CategoriaMapper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\Mapper\\CategoriaMapper.cs",
+              "RelativeToolTip": "Mapper\\CategoriaMapper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:19:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:52:20.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\model\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entity\\model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\Entity\\model\\Categoria.cs",
+              "RelativeToolTip": "Entity\\model\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:51:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UAIStore\\DAL\\AppDbContextFactory.cs",
+              "RelativeToolTip": "DAL\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:52:39.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
